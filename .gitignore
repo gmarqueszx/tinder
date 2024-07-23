@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+env/
+
+# Bytecode compilado
+__pycache__/
+*.pyc
+
+# Pastas da IDE
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados local
+*.sqlite
+*.db
